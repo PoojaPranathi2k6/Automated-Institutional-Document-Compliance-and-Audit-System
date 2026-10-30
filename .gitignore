@@ -1,0 +1,30 @@
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# React / Node
+node_modules/
+dist/
+build/
+
+# Uploaded PDFs and documents
+uploads/
+*.pdf
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
